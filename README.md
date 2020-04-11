@@ -1,2 +1,2 @@
 # 3d-Flip-Card
-a 3d Information Flip Card
+A 3d Information Flip Card
